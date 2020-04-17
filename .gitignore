@@ -1,0 +1,7 @@
+Debug/
+
+*.log
+*.autosave
+*.o
+*.obj
+*.suo
